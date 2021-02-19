@@ -1,6 +1,6 @@
-# flutter_quiz
+# flutter_myshop_mobile_app
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
